@@ -1,0 +1,16 @@
+.layout {
+  display: flex;
+}
+.sidebar {
+  width: 25%;
+  background-color:rgb(40, 44, 42);
+}
+.tasksbar {
+  width: 75%;
+  background-color: green;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  
+}
